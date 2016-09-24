@@ -1,10 +1,9 @@
+![Image particles example](https://raw.githubusercontent.com/x-raizor/nodebox1-generative-tools/master/examples/images_particles_example.png)
 # Nodebox 1 Generative Design Tools
-Parametric design tools for drawing
+Parametric design tools for quick canvas constructions
 
 ## Particles distributor
-![Circle particles](https://raw.githubusercontent.com/x-raizor/nodebox1-generative-tools/master/examples/circle_particles.png)
-
-![Image particles](https://raw.githubusercontent.com/x-raizor/nodebox1-generative-tools/master/examples/images_particles.png)
+![Circle and images particles](https://raw.githubusercontent.com/x-raizor/nodebox1-generative-tools/master/examples/particles_distributor.gif)
 
 
 ## Installation
