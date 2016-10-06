@@ -3,10 +3,9 @@ Parametric design tools for quick canvas constructions
 
 ## Particles distributor
 ![Circle and images particles](https://raw.githubusercontent.com/x-raizor/nodebox1-generative-tools/master/examples/particles_distributor.gif)
-Circles and images
 
 ![Shape particles](https://raw.githubusercontent.com/x-raizor/nodebox1-generative-tools/master/examples/svg_shapes_particles.png)
-SVG-shapes
+
 
 ## Installation
 1. Install Nodebox 1 (Mac only).
