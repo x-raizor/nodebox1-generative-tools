@@ -2,8 +2,10 @@
 Parametric design tools for quick canvas constructions
 
 ## Particles distributor
+### Circles and images particles
 ![Circle and images particles](https://raw.githubusercontent.com/x-raizor/nodebox1-generative-tools/master/examples/particles_distributor.gif)
 
+### SVG-shapes particles
 ![Shape particles](https://raw.githubusercontent.com/x-raizor/nodebox1-generative-tools/master/examples/svg_shapes_particles.png)
 
 
